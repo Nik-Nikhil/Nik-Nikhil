@@ -11,9 +11,7 @@
   
 ### 🛡️Connect with me :
   
-  <p>  <a href="https://twitter.com/Nikhil78037"><img src="https://user-images.githubusercontent.com/56159827/221446016-519b41e2-9931-4bff-b52a-5208368a12af.svg" height =50px width= 50px alt="twitter-logo"/></a>    
-    <br/>
-    <a href="https://www.linkedin.com/in/nikhil-kumar-singh-b5a724189"><img src="https://user-images.githubusercontent.com/56159827/221446549-87f347e8-bf6a-4309-be83-6009fe4094c7.svg" width=50px height=50px alt="lnkdn_logo"/></a>
+  <p>  <a href="https://twitter.com/Nikhil78037"><img src="https://user-images.githubusercontent.com/56159827/221446016-519b41e2-9931-4bff-b52a-5208368a12af.svg" height =50px width= 50px alt="twitter-logo"/></a>  <a href="https://www.linkedin.com/in/nikhil-kumar-singh-b5a724189"><img src="https://user-images.githubusercontent.com/56159827/221446549-87f347e8-bf6a-4309-be83-6009fe4094c7.svg" width=50px height=50px alt="lnkdn_logo"/></a>
   </p>
   </h3>
 </div>
