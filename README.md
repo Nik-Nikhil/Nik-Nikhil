@@ -6,7 +6,7 @@
   ### 😎 About Me :
 <h3 align="center"><picture><img src="https://user-images.githubusercontent.com/56159827/221440890-327e2d84-9136-4f6d-bc43-ee44447079a9.png" alt="programmer" height=80px width =80px/></picture> Programmer ||<picture><img src="https://user-images.githubusercontent.com/56159827/221440753-99f4f683-c2a6-4db4-9907-d1033844ee94.png" alt="gamer" height=80px width =80px/></picture> Gamer ||<picture><img src="https://user-images.githubusercontent.com/56159827/221441206-6daef98f-edf4-442d-9028-92c6a4d1e1ab.png" alt="developer" height=80px width =80px/></picture> Developer</h3>
 </div>
-<br/>
+
 <div>
   
 ### 🛡️Connect with me :
@@ -15,7 +15,6 @@
   </p>
   </h3>
 </div>
-<br/>
 <div>
 
  ### :hammer_and_wrench: Languages and Tools :
@@ -34,8 +33,6 @@
 <a href="https://www.typescriptlang.org"><picture><img src="https://user-images.githubusercontent.com/56159827/221444061-b3670df6-fe82-40fe-a5c5-cb3fd2b1a10b.svg" alt="typescript_logo" height=50px width=50px></picture></a>
 
   </div>
-<br/>
-
 <div>
 
 ### :fire: My Stats :
